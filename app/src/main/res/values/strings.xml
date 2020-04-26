@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BLETest</string>
+    <string name="insufficient_permission_dialog_title">요구 권한 불충족</string>
+    <string name="insufficient_permission_dialog_message">필요한 권한이 승인되지 않았습니다.\n앱을 종료합니다.</string>
+    <string name="bluetooth_not_supported">이 기기는 블루투스를 지원하지 않습니다.</string>
+    <string name="search">기기 탐색</string>
+    <string name="stop_searching">탐색 중지</string>
+    <string name="no_name">(이름 없음)</string>
+    <string name="connect">연결</string>
+    <string name="disconnect">연결 끊기</string>
+    <string name="cancel_connection">연결 중지</string>
+    <string name="connectible">연결 가능</string>
+    <string name="connecting">연결 중…</string>
+    <string name="connected">연결 됨</string>
+    <string name="not_connected">연결 안 됨</string>
+    <string name="error">오류</string>
+    <string name="open_console">콘솔 열기</string>
+    <string name="text_holder">값 입력</string>
+    <string name="send">전송</string>
+    <string name="yes">네</string>
+    <string name="confirm">확인</string>
+</resources>
